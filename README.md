@@ -5,8 +5,8 @@ Generate highlighted code snippets for slide
 
 # URLs
 
-https://github.com/JetBrains/intellij-community/blob/master/platform/lang-impl/src/com/intellij/codeInspection/export/InspectionTreeHtmlWriter.java
-https://github.com/JetBrains/intellij-community/blob/97eed9c38f08e0e8ca8f6af89e66801c2be41cbf/platform/lang-impl/src/com/intellij/codeInspection/ui/actions/ExportHTMLAction.java
+* https://github.com/JetBrains/intellij-community/blob/master/platform/lang-impl/src/com/intellij/codeInspection/export/InspectionTreeHtmlWriter.java
+* https://github.com/JetBrains/intellij-community/blob/97eed9c38f08e0e8ca8f6af89e66801c2be41cbf/platform/lang-impl/src/com/intellij/codeInspection/ui/actions/ExportHTMLAction.java
 
 # Concept
 
